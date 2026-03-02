@@ -9,7 +9,7 @@ Below is a walkthrough of our project and how to use our codes:
 It will generate the same results and plots that you are going to see in the jupyter notebook which noted as "Part 1 plot.ipynb"
 
 2. Part 2 is mainly about our trained models and you can run the "Part 2 plot.ipynb "notebook.
-It will automatically import functions from "Part 2 code.py" to process the data before proceeding to training and SHAP analysis.
+It will automatically import functions from "Part_2_code.py" to process the data before proceeding to training and SHAP analysis.
 
 3. You will also find there is a zipped file which contains the serialized pre-trained models in .pkl format from part 2.
 
