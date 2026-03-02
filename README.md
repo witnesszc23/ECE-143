@@ -6,7 +6,7 @@ I also uploaded the raw data in a separate branch called "student_performance.cs
 Below is a walkthrough of our project and how to use our codes:
 
 1. Part 1 is the part which we performed an EDA and you can simply run "Part 1 code.py" to get the results.
-It will generate the same results and plots that you are going to see in the jupyter notebook which noted as "Part 2 plot.ipynb"
+It will generate the same results and plots that you are going to see in the jupyter notebook which noted as "Part 1 plot.ipynb"
 
 2. Part 2 is mainly about our trained models and you can run the "Part 2 plot.ipynb "notebook.
 It will automatically import functions from "Part 2 code.py" to process the data before proceeding to training and SHAP analysis.
